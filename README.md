@@ -30,7 +30,6 @@ Before running this application, ensure you have the following installed:
 - **Java 21** or higher
 - **Maven 3.x** or use the included Maven wrapper (`mvnw`)
 - **Apache Kafka** (running on `localhost:9092`)
-- **Docker** (optional, for easy Kafka setup)
 
 ## 🏗️ Project Structure
 
